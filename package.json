@@ -31,7 +31,7 @@
     "loopback-component-explorer": "^5.2.0"
   },
   "devDependencies": {
-    "eslint": "^2.5.3",
+    "eslint": "^4.9.0",
     "eslint-config-loopback": "^4.0.0"
   },
   "repository": {
